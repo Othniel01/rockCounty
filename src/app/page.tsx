@@ -316,7 +316,7 @@ right-[-110px]
                  min-[657px]:w-[290px]  ring-white"
             >
               <Image
-                src={"/img/image-four.png"}
+                src={"/img/image-four.webp"}
                 alt="Cover Image"
                 className="object-cover h-full w-full  "
                 width={6740}
