@@ -8,12 +8,12 @@ export default function Dash() {
 
   // Array of image sources
   const images = [
-    "/img/image-one.png",
+    "/img/image-one.webp",
     "/img/static-two.jpeg",
     "/img/download.gif",
-    "/img/image-six.png",
-    "/img/image-five.png",
-    "/img/image-seven.png",
+    "/img/image-six.webp",
+    "/img/image-five.webp",
+    "/img/image-seven.webp",
   ];
 
   useEffect(() => {
