@@ -284,7 +284,7 @@ w-[157px]
                 </div>
                 <div className="w-full flex-col flex ">
                   <Image
-                    src={"/img/logo-three.png"}
+                    src={"/img/logo-one.png"}
                     alt="Cover Image"
                     className="object-cover pointer-events-none w-[160px] mt-4 "
                     width={6740}
