@@ -10,5 +10,4 @@
 body {
   color: var(--foreground);
   background: var(--background);
-  cursor: none;
 }

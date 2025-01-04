@@ -9,8 +9,10 @@ const SpaceGrotesk = Space_Grotesk({
 });
 
 export const metadata: Metadata = {
-  title: "ROCK COUNTY",
-  description: "WE ROCK",
+  // title: "ROCK COUNTY",
+  // description: "WE ROCK",
+  title: "Frances",
+  description: "Happy Birthday",
 };
 
 export default function RootLayout({
